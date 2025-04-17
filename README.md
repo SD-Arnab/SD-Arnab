@@ -2,7 +2,7 @@
 
 <!-- Animated bio using SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=4F46E5&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%9A%80;Web+Enthusiast+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%AD;Love+Clean+UI+%26+Coding+Challenges" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=4F46E5&center=true&vCenter=true&width=435&lines=Frontend+Developer;Web+Enthusiast+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%AD;Love+Clean+UI+%26+Coding+Challenges" alt="Typing SVG" />
 </p>
 
 <p align="center">
